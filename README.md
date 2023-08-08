@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **architsehgal19@gmail.com**
 
-- ⚡ Fun fact **  I Win! That's my job**
+- ⚡ Fun fact **I Win! That's my job**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
