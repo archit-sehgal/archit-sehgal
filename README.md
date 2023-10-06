@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="left">I'm a third-year Computer Applications student specializing in MERN stack web development, eager to innovate.</h4>
+<h2 align="left">Full Stack Developer</h2>
 
 ###
 
